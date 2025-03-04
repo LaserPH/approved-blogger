@@ -1,0 +1,55 @@
+// CONFIG
+{
+    // the name of your blog
+    // appears on the footer, the RSS feed, and the link preview (the little image when you link to your site on social media)
+    "siteName": "THE APPROVED",
+
+    // a short description of your blog
+    // appears on the link preview
+    "siteDescription": "LaserPH writes about random stuff",
+
+    // the public URL of your blog
+    // this is necessary for the link preview & RSS feed to function correctly
+    "siteURL": "https://the-approved.neocities.org/",
+
+    // your name
+    // appears on the footer
+    "siteAuthor": "LaserPH",
+    
+    // a two letter locale code indicating your site's primary language
+    // e.g. "en", "fr", "es"... for a full list see https://www.w3schools.com/tags/ref_language_codes.asp
+    // can use commas and space to add multiple i.e. "en, fr"
+    // appears internally on pages + RSS, which helps users & search engines find your page
+    "siteLang": "en",
+
+    // a link where people can reach you - your personal site, your social media, etc...
+    // appears on the footer, but you can leave it blank if you don't want it to appear
+    // like this : "authorLink": "",
+    "authorLink": "https://bsky.app/profile/laserph.bsky.social",
+
+    // your email address
+    // appears on the footer, but you can leave it blank if you don't want it to appear
+    // like this : "authorContact": "",
+    "authorContact": "approvedump@yahoo.com",
+
+    // the theme used by your blog
+    // themes are located in src/assets/styles/themes
+        // strawberry: the default theme
+        // contrast:   a sleek, high contrast black & white theme.
+        // bark:       an old-school, green & brown autumnal theme.
+        // nightlight: a flat, purple polka dot theme.
+        // ocean:      a dark blue theme with rounded corners.
+        // morning:    a bright orange theme with a fun navigation bar style.
+        // bombo:      a deep forest green theme with gradients. (designed by fotocopiadora!)
+        // plain:      a very barebones, minimal theme - more of a template for you to create your own theme
+    // feel free to look inside the theme files and customize them - it's not hard to edit simple things, like the colors!
+    "siteStyle": "nightlight",
+
+    // (optional) upload your site to a subdirectory
+    // e.g. set this to "/blog/" if you want your blog to be at "example.neocities.org/blog/" instead of "example.neocities.org"
+    // (works for subdirectories on any hosting provider, not just neocities)
+    // !!!
+    // IF YOU'RE USING NEOCITIES UPLOAD AND YOUR SITE ALREADY HAS CONTENT IN IT - like a homepage - BE SURE TO SET THIS!
+    // UPLOADING TO NEOCITIES WILL OVERWRITE CONTENT!
+    "siteSubDir": "/"
+}

@@ -1,0 +1,10 @@
+---
+title: STARDOM
+date: 2024-01-01
+---
+
+<ol id="latest_posts">
+    {% for i in collections.STARDOM reversed %}
+    <li><a href="{{ i.url }}">{{ i.date | dateFormat }} - {{ i.data.title }}</a></li>
+    {% endfor %}
+</ol>

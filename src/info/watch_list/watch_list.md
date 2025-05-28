@@ -3,7 +3,7 @@ title: Watch List
 date: 2024-01-01
 ---
 
-### Last Updated: 2025-05-27 (May, 27, 2025)
+### Last Updated: 2025-05-28 (May, 28, 2025)
 
 ### This page contains a list of pro-wrestling matches that I've been planning to watch (or re-watch) and will get updated whenever I feel like. I'm making this public so anyone can enjoy and maybe even discover something new to dive into.
 
@@ -15,6 +15,7 @@ Click on the promotions to get you there quick.
   - <a href="#ajpw">AJPW</a>
   - <a href="#bjw">BJW</a>
   - <a href="#dg">DRAGONGATE / Toryumon</a>
+  - <a href="#freedoms">FREEDOMS</a>
   - <a href="#njpw">NJPW</a>
   - <a href="#z1">ZERO1</a>
   - <a href="#puro-independent">Independent</a>
@@ -39,6 +40,7 @@ Click on the promotions to get you there quick.
   - <a href="#stardom">STARDOM</a>
   - <a href="#tjpw">TJPW</a>
   - <a href="#wave">WAVE</a>
+  - <a href="#z1-joshi">ZERO1</a>
   - <a href="#joshi-independent">Independent</a>
 - <a href="#lucha">Lucha Libre</a>
   - <a href="#cmll">CMLL</a>
@@ -88,6 +90,11 @@ Click on the promotions to get you there quick.
   [BJW Core](https://bjwcore.com/set/787/contents/794?fcid=18)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=60075#rateHere)
   <img src="https://bjwcore.com/storage/generated/images/thumbnail/960x540/content-82489c9737cc245530c7a6ebef3753ec-thumbnail.jpg?ts=1574391889">
+
+- Hideki Suzuki vs. Yuji Okabayashi [BJW World Strong Heavyweight Title] (2017.05.05)<br>
+  [BJW Core](https://bjwcore.com/contents/625)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=8439#rateHere)
+  <img src="https://bjwcore.com/storage/generated/images/thumbnail/960x540/content-233509073ed3432027d48b1a83f5fbd2-thumbnail.png?ts=1563883239">
 
 - Abdullah Kobayashi vs. Yuko Miyamoto [BJW Death Match Heavyweight Title / Construction Site] (2012.10.29)<br>
   [BJW Core](https://bjwcore.com/set/787/contents/795)<br>
@@ -147,6 +154,25 @@ Click on the promotions to get you there quick.
 
 ---
 
+## <a id="freedoms">`FREEDOMS`</a>
+
+- Jun Kasai vs. Masashi Takeda [Glass Death Match] (2009.12.25)<br>
+  [YouTube](https://www.youtube.com/watch?v=xDDeJ2feDj0)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=886787_629c204b702b50869fe3b96fed7ab387)
+  <iframe width="600" height="300" src="https://www.youtube.com/embed/xDDeJ2feDj0?si=eqzX3JjIropWkuLa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Jun Kasai vs. Masashi Takeda [No Canvas + Glass Board Death Match] (2013.08.29)<br>
+  [YouTube](https://www.youtube.com/watch?v=G65XT6-7axI)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=100292)
+  <iframe width="600" height="300" src="https://www.youtube.com/embed/G65XT6-7axI?si=5Nz4HsTEtvz4TEvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Jun Kasai vs. Yuko Miyamoto [Scaffold & Glass Board Death Match] (2013.12.25)<br>
+  [YouTube](https://youtu.be/Kra7eiCLODo?si=tqGtn5QwSvhxW5Wc)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=45517#rateHere)
+  <iframe width="600" height="300" src="https://www.youtube.com/embed/Kra7eiCLODo?si=tqGtn5QwSvhxW5Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## <a id="njpw">`New Japan Pro Wrestling`<br>`新日本プロレス`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0001.png" alt="NJPW Logo" style="width:150px;height:150px">
@@ -157,17 +183,44 @@ Click on the promotions to get you there quick.
   <img src="https://i.imgur.com/iiEoMt4.jpeg" alt="Graphic for Kazuchika Okada vs. Tetsuya Naito IWGP Heavyweight title match in NJPW's Invasion Attack 2016 event">
 
 - Satoshi Kojima vs. Toshiaki Kawada (2001.06.06)<br>
-  [Archive](<https://archive.org/details/super-ability-faction-declaration-2001/2001.06.06g-NJPW-New+Japan+Pro-Wrestling+VS+All+Japan+Pro-Wrestling+5+VS+5+Single+Match+%235-Satoshi+Kojima+VS+(AJPW)+Toshiaki+Kawada.mp4>)<br>
+  [Archive (Vid #7)](<https://archive.org/details/super-ability-faction-declaration-2001/2001.06.06g-NJPW-New+Japan+Pro-Wrestling+VS+All+Japan+Pro-Wrestling+5+VS+5+Single+Match+%235-Satoshi+Kojima+VS+(AJPW)+Toshiaki+Kawada.mp4>)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=8163#rateHere)
+  <iframe src="https://archive.org/embed/super-ability-faction-declaration-2001/2001.06.06g-NJPW-New+Japan+Pro-Wrestling+VS+All+Japan+Pro-Wrestling+5+VS+5+Single+Match+%235-Satoshi+Kojima+VS+(AJPW)+Toshiaki+Kawada.mp4" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 - Yuji Nagata vs. Yoshihiro Takayama [IWGP & NWF Heavyweight Title] (2003.05.02)<br>
-  [Archive](https://archive.org/details/ultimate-crush/)<br>
+  [NJPW WORLD](https://watch.njpwworld.com/details/57221)<br>
+  [Archive (Vid #14)](https://archive.org/details/ultimate-crush)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=2371#rateHere)
+  <iframe src="https://archive.org/embed/ultimate-crush/2003.05.02n-NJPW-IWGP+%26+NWF+Heavyweight+Double+Championship+Match-Yuji+Nagata+(IWGP+(C-V11)+VS+(NWF+(C-V4)+Yoshihiro+Takayama.mp4" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 - Kazuchika Okada & Shinsuke Nakamura vs. Shuji Ishikawa & Suwama (2012.07.01)<br>
   [YouTube](https://youtu.be/VxnhiNF8VbI?si=ROAGh5yqKTNOU3Vi)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=66961#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/VxnhiNF8VbI?si=SYooBvLAelxvQTW5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Yuji Nagata vs. Koji Kanemoto [G1 Climax 2006 Block B] (2006.08.12)<br>
+  [VK](https://vkvideo.ru/video-162834481_456241458)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=2428#rateHere)
+
+- Hiroshi Tanahashi & Koji Kanemoto vs. Takeshi Morishima & Kota Ibushi (2009.05.05)<br>
+  [VK](https://vkvideo.ru/video-186832985_456239915)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=3776#rateHere)
+
+- Shinya Hashimoto vs. Riki Choshu [IWGP Heavyweight Title] (1994.06.15)<br>
+  [NJPW WORLD](https://watch.njpwworld.com/details/44032)<br>
+  [Archive (starts at 21:42 of Vid #3)](https://archive.org/details/njpw-wpw-94.5.28-best.of-the-super-junior-tv-asahi/NJPW.WPW.94.6.25.Super.Strong.Men.Declaration.5.Part.1.TV-Asahi.XviD.avi)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=32444#rateHere)
+  <iframe src="https://archive.org/embed/njpw-wpw-94.5.28-best.of-the-super-junior-tv-asahi/NJPW.WPW.94.6.25.Super.Strong.Men.Declaration.5.Part.1.TV-Asahi.XviD.avi" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+- Satoshi Kojima vs. Shinsuke Nakamura [IWGP Heavyweight Title] (2005.03.26)<br>
+  [NJPW WORLD](https://watch.njpwworld.com/details/41559)<br>
+  [VK](https://vkvideo.ru/video547965748_456239225)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=11705#rateHere)
+
+- Satoshi Kojima vs. Hiroyoshi Tenzan [IWGP Heavyweight Title] (2005.05.14)<br>
+  [NJPW WORLD](https://watch.njpwworld.com/details/42768)<br>
+  [VK](https://vkvideo.ru/video547965748_456239241)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=82823#rateHere)
 
 ---
 
@@ -177,6 +230,20 @@ Click on the promotions to get you there quick.
   [YouTube](https://youtu.be/Xmf_XU6YszM?si=0Yx5qe_glzP1SrGM)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=13572#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/Xmf_XU6YszM?si=nYed5Sp08PvbrmKN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## <a id="puro-independent">`Independent`</a>
+
+- Kakuto Tanteidan III ~ One Life To Live (whole show)<br>
+  [WRESTLE UNIVERSE](https://www.wrestle-universe.com/en/videos/wuYftuHsYthAbx6zRFNakp)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=419718&page=2)
+  <img src="https://image.asset.wrestle-universe.com/bLiyDsSrhfr34tnpmGf5VF/bLiyDsSrhfr34tnpmGf5VF?dpr=1&fit=clip&format=webply&width=640">
+
+- Fortune Dream 10 - 2025.04.16 (Whole show)<br>
+  [Archive](https://archive.org/details/fortune-dream-10-16-04-25)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=423749&page=2)
+  <iframe src="https://archive.org/embed/fortune-dream-10-16-04-25" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ---
 
@@ -340,6 +407,29 @@ Click on the promotions to get you there quick.
   [YouTube](https://youtu.be/VAivOpmbCRc?si=p0E4Bpw4FFG2zXdr)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/VAivOpmbCRc?si=UQgBW2dDy1RS41xB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- Suzu Suzuki vs. Saori Anou [ICExInfinity Title] (2020.12.31)<br>
+  [VK](https://vkvideo.ru/video-4499945_456245388)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=26822#rateHere)
+  <img src="https://pbs.twimg.com/media/EqZ2aLlUcAAhr9m?format=jpg&name=900x900">
+
+- Tsukasa Fujimoto vs. Saori Anou (2020.10.03)<br>
+  [VK](https://vkvideo.ru/video-4499945_456244934)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=22620#rateHere)
+
+- Risa Sera vs. Maya Yukihi [FantastICE Title] (2020.10.31)<br>
+  [VK](https://vkvideo.ru/video-4499945_456245081)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=24125#rateHere)
+  <img src="https://pbs.twimg.com/media/ElZEGP4VMAA8U0j?format=jpg&name=900x900">
+
+- Suzu Suzuki vs. Haruka Umesaki [ICExInfinity Title] (2020.10.31)<br>
+  [VK](https://vkvideo.ru/video-4499945_456245081)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=23972#rateHere)
+  <img src="https://pbs.twimg.com/media/ElZEUw9U0AAF8EG?format=jpg&name=900x900">
+
+- Tsukasa Fujimoto & Arisa Nakajima vs. Tsukushi & Saori Anou (2020.10.31)<br>
+  [VK](https://vkvideo.ru/video-4499945_456245081)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=23954#rateHere)
+
 ---
 
 ## <a id="jto">`Just Tap Out`</a>
@@ -495,6 +585,21 @@ Click on the promotions to get you there quick.
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0084.png" alt="OZ Academy logo" style="width:150px;height:150px">
 
+- Saori Anou vs. Syuri (2020.02.16)<br>
+  [VK](https://vkvideo.ru/video-5899799_456243860)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=114215#rateHere)
+
+- Saori Anou vs. Sareee (2020.12.30)<br>
+  [VK](https://vkvideo.ru/video5773044_456247485)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=28245#rateHere)
+
+- [Aja Kong & Carlos Amano vs. Meiko Satomura & Toshiyo Yamada (1999.02.28)](https://vkvideo.ru/video503954342_456239663)
+
+- Maya Yukihi vs. Mayumi Ozaki vs. Saori Anou vs. Yumi Ohka [OZ Academy Openweight Title / Elimination] (2021.08.18)<br>
+  [Archive](https://archive.org/details/oz-academy-mayumi-ozaki-35th-anniversary-18-08-21)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=39797#rateHere)
+  <iframe src="https://archive.org/embed/oz-academy-mayumi-ozaki-35th-anniversary-18-08-21" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 - OZ Academy Eternal Sparkle At Maebashi (2024.12.01) (Whole show)<br>
   [Archive](https://archive.org/details/oz-academy-eternal-sparkle-at-maebashi-01-12-24)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=413346&page=2)
@@ -509,8 +614,6 @@ Click on the promotions to get you there quick.
   [Archive](https://archive.org/details/oz-academy-crimson-vengeance-09-03-25)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=421014&page=2)
   <iframe src="https://archive.org/embed/oz-academy-crimson-vengeance-09-03-25" width="600" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-- [Aja Kong & Carlos Amano vs. Meiko Satomura & Toshiyo Yamada (1999.02.28)](https://vkvideo.ru/video503954342_456239663)
 
 ---
 
@@ -763,6 +866,14 @@ Click on the promotions to get you there quick.
 
 ---
 
+## <a id="z1-joshi">`ZERO1`</a>
+
+- Mayumi Ozaki & Saori Anou vs. Aja Kong & Hiroyo Matsumoto [Blast Queen Title / Super Plasma Blast Death Match] (2020.02.24)<br>
+  [VK](https://vkvideo.ru/video-4499945_456244243)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=26687#rateHere)
+
+---
+
 ## <a id="joshi-independent">`Independent`</a>
 
 - Hana Kimura Debut Special Produce ~HANA~ (2016.08.07) (whole show)<br>
@@ -779,6 +890,14 @@ Click on the promotions to get you there quick.
   [YouTube](https://youtu.be/Y7t4wmHC978?si=S4H_-xJaWjMj4sfY)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=77209#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/Y7t4wmHC978?si=S4H_-xJaWjMj4sfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Mei Hoshizuki vs. Mei Suruga vs. Mio Momono vs. Miyuki Takase (Chikayo Nagashima Debut 25th Anniversary - 2021.03.26)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=87924#rateHere)
+
+- Fortune Dream 10 - 2025.04.16 (Whole show)<br>
+  [Archive](https://archive.org/details/fortune-dream-10-16-04-25)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=423749&page=2)
+  <iframe src="https://archive.org/embed/fortune-dream-10-16-04-25" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ---
 

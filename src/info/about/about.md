@@ -6,7 +6,7 @@ Hello, I'm LaserPH.
 
 ![patubig.jpg](https://i.postimg.cc/L6SkHdym/patubig.jpg)
 
-## Interests:
+## `Interests`
 
 - Gaming
   - I'm very fond of Arcade games in general and open to explore a wide range of genres.
@@ -22,7 +22,7 @@ Hello, I'm LaserPH.
   - Currently learning it as my 3rd language. I can speak Tagalog and English.
 - Fountain pens
 
-## Accounts:
+## `Accounts`
 
 - [Bluesky](https://bsky.app/profile/laserph.bsky.social)
   - Where I mostly post.

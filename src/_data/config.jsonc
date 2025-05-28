@@ -6,7 +6,7 @@
 
     // a short description of your blog
     // appears on the link preview
-    "siteDescription": "LaserPH writes about random stuff",
+    "siteDescription": "Home of LaserPH Blogs talking about pro-wrestling, gaming, and whatever.",
 
     // the public URL of your blog
     // this is necessary for the link preview & RSS feed to function correctly
@@ -43,7 +43,7 @@
         // bombo:      a deep forest green theme with gradients. (designed by fotocopiadora!)
         // plain:      a very barebones, minimal theme - more of a template for you to create your own theme
     // feel free to look inside the theme files and customize them - it's not hard to edit simple things, like the colors!
-    "siteStyle": "nightlight",
+    "siteStyle": "purpy",
 
     // (optional) upload your site to a subdirectory
     // e.g. set this to "/blog/" if you want your blog to be at "example.neocities.org/blog/" instead of "example.neocities.org"

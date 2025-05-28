@@ -2,6 +2,7 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import fs from 'fs';
 import { jsonc } from "jsonc";
+import furigana from "@myxotod/eleventy-plugin-furigana";
 
 const config = jsonc.parse(fs.readFileSync('src/_data/config.jsonc', 'utf8'));
 
@@ -15,8 +16,9 @@ export default function (eleventyConfig) {
 	});
 
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+  eleventyConfig.addPlugin(furigana);
   eleventyConfig.addPlugin(feedPlugin, {
-		type: "atom",
+		type: "atom", 
 		outputPath: "/feed.xml",
 		collection: {
 			name: "posts",

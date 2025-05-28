@@ -51,23 +51,26 @@ layout: head.html
     </nav>
     {% endif %}
     <footer>
-        <p>
-            {{ config.siteName }} is written by 
-            {% if config.authorLink != "" %}
-                <a href="{{ config.authorLink }}">{{ config.siteAuthor }}</a>
-                {% else %}
-                {{ config.siteAuthor }}
-            {% endif %}
-        </p>
-        {% if config.authorContact != "" %}
-            <address>Contact: <a href="mailto:{{ config.authorContact}}">{{ config.authorContact }}</a></address>
-        {% endif %}
         <aside>
             <p>
-                <time class="lastupdate" datetime="{{lastUpdate}}">Last update: {{ lastUpdate }}</time>
-                <a href="/feed.xml">RSS</a>
+                {{ config.siteName }} is written by 
+                {% if config.authorLink != "" %}
+                    <a href="{{ config.authorLink }}">{{ config.siteAuthor }}</a>
+                    {% else %}
+                    {{ config.siteAuthor }}
+                {% endif %}
             </p>
             <a href="#">back to top</a>
         </aside>
+        {% if config.authorContact != "" %}
+            <address>Contact: <a href="mailto:{{ config.authorContact}}">{{ config.authorContact }}</a></address>
+        {% endif %}
+        <p>
+            <time class="lastupdate" datetime="{{lastUpdate}}">Last update: {{ lastUpdate }}</time>
+            <a href="/feed.xml">RSS</a>
+        </p>
+        <a href="https://neocities.org/">
+            <img src="https://the-approved.neocities.org/neocities.png" alt="Hosted by neocities">
+        </a>
     </footer>
-</body>
+</body> 

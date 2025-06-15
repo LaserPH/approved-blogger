@@ -29,6 +29,7 @@ Hello, I'm LaserPH.
 - [Ameba](https://ameblo.jp/laserph/)
 - [Internet Archive](https://archive.org/details/@laserph)
   - Archiving mostly wrestling related stuff.
+- [Dropkickd](https://dropkickd.com/profile/LaserPH)
 - [Backloggd](https://www.backloggd.com/u/LaserPH/)
 - [Letterboxd](https://letterboxd.com/LaserPH/)
 - [AniList](https://anilist.co/user/LaserPH/)

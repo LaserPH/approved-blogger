@@ -1,237 +1,36 @@
 ---
-title: Watch List
-date: 2024-01-01
+title: Joshi Puroresu (Japanese Women's Pro-Wrestling)
+tags: ["Watch List"]
 ---
 
-### Last Updated: 2025-06-15 (June, 15, 2025)
-
-### This page contains a list of pro-wrestling matches that I've been planning to watch (or re-watch) and will get updated whenever I feel like. I'm making this public so anyone can enjoy and maybe even discover something new to dive into.
-
-# `PROMOTIONS`
+# `女子プロレス`
 
 Click on the promotions to get you there quick.
 
-- <a href="#puroresu">Japanese ProWres</a>
-  - <a href="#ajpw">AJPW</a>
-  - <a href="#bjw">BJW</a>
-  - <a href="#dg">DRAGONGATE / Toryumon</a>
-  - <a href="#freedoms">FREEDOMS</a>
-  - <a href="#njpw">NJPW</a>
-  - <a href="#z1">ZERO1</a>
-  - <a href="#puro-independent">Independent</a>
-- <a href="#joshi">Japanese Women's ProWres</a>
-  - <a href="#awg">Actwresgirl'Z</a>
-  - <a href="#ajw">AJW</a>
-  - <a href="#arsion">ARSION</a>
-  - <a href="#chocopro">ChocoPro</a>
-  - <a href="#diana">DIANA</a>
-  - <a href="#gaea">GAEA</a>
-  - <a href="#ir">Ice Ribbon</a>
-  - <a href="#jto">JTO</a>
-  - <a href="#jwp">JWP</a>
-  - <a href="#llpw">LLPW</a>
-  - <a href="#marigold">MARIGOLD</a>
-  - <a href="#marvelous">Marvelous</a>
-  - <a href="#neo">NEO</a>
-  - <a href="#oz">OZ ACADEMY</a>
-  - <a href="#purej">PURE-J</a>
-  - <a href="#reina">REINA</a>
-  - <a href="#senjo">SENDAI GIRLS</a>
-  - <a href="#stardom">STARDOM</a>
-  - <a href="#tjpw">TJPW</a>
-  - <a href="#wave">WAVE</a>
-  - <a href="#z1-joshi">ZERO1</a>
-  - <a href="#joshi-independent">Independent</a>
-- <a href="#lucha">Lucha Libre</a>
-  - <a href="#cmll">CMLL</a>
-  - <a href="#iwrg">IWRG</a>
-  - <a href="#lucha-indy">Independent</a>
+- <a href="#awg">Actwresgirl'Z</a>
+- <a href="#ajw">AJW</a>
+- <a href="#arsion">ARSION</a>
+- <a href="#chocopro">ChocoPro</a>
+- <a href="#diana">DIANA</a>
+- <a href="#gaea">GAEA</a>
+- <a href="#ir">Ice Ribbon</a>
+- <a href="#jto">JTO</a>
+- <a href="#jwp">JWP</a>
+- <a href="#llpw">LLPW</a>
+- <a href="#marigold">MARIGOLD</a>
+- <a href="#marvelous">Marvelous</a>
+- <a href="#neo">NEO</a>
+- <a href="#oz">OZ ACADEMY</a>
+- <a href="#purej">PURE-J</a>
+- <a href="#reina">REINA</a>
+- <a href="#senjo">SENDAI GIRLS</a>
+- <a href="#stardom">STARDOM</a>
+- <a href="#tjpw">TJPW</a>
+- <a href="#wave">WAVE</a>
+- <a href="#z1-joshi">ZERO1</a>
+- <a href="#independent">Independent</a>
 
 ---
-
-# <a id="puroresu">`Japanese ProWres`<br><br>`プロレス`</a>
-
-## <a id="ajpw">`All Japan Pro Wrestling`<br>`全日本プロレス`</a>
-
-<img src="https://wp.bbm-mobile.com/img/Common/Party/0002.png" alt="AJPW logo" style="width:150px;height:150px">
-
-- Kensuke Sasaki vs. Toshiaki Kawada [Triple Crown Title] (2007.10.18)<br>
-  [YouTube](https://www.youtube.com/watch?v=rHfK6fFDzvE)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=12807#rateHere)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/rHfK6fFDzvE?si=OLpX6i74IXK0o9h7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Shuji Ishikawa vs. Shingo Takagi [Champion Carnival 2018 Block A] (2018.04.29)<br>
-  [YouTube](https://www.youtube.com/watch?v=vkyn-Fl9EBQ)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=9337#rateHere)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/vkyn-Fl9EBQ?si=xtv_29cxkU5ORQ0F&amp;start=260" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Suwama vs. Osamu Nishimura [Triple Crown Title] (2008.06.28)<br>
-  [YouTube](https://www.youtube.com/watch?v=67F14VPF6i0)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=42719#rateHere)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/67F14VPF6i0?si=z81rOH8FjBahCOHv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Minoru Suzuki vs. Toshiaki Kawada [Champion Carnival 2007 Block A] (2007.03.29)<br>
-  [YouTube](https://www.youtube.com/live/qpolhe-U1Pk?si=hQtU4bkTSi0Wbwyj)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=23601#rateHere)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/qpolhe-U1Pk?si=kHnESB4Dgbi8-zs-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## <a id="bjw">`Big Japan Pro Wrestling`<br>`大日本プロレス`</a>
-
-<img src="https://wp.bbm-mobile.com/img/Common/Party/0013.png" alt="BJW Logo" style="width:150px;height:150px">
-
-- Ryuji Ito & Takashi Sasaki vs. Jaki Numazawa & Jun Kasai [200 Fluorescent Lighttubes Cage Tag Team Death Match]<br>
-  [Archive](https://archive.org/details/dainichi-taisen-38)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=65480#rateHere)
-  <img src="https://i.postimg.cc/7LFGwHj4/mpv-shot0003.jpg">
-
-- Yuko Miyamoto vs. Jun Kasai [Ikkitousen Death Match Survivor 2011 Block B] (2011.03.27)<br>
-  [BJW Core](https://bjwcore.com/set/787/contents/794?fcid=18)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=60075#rateHere)
-  <img src="https://bjwcore.com/storage/generated/images/thumbnail/960x540/content-82489c9737cc245530c7a6ebef3753ec-thumbnail.jpg?ts=1574391889">
-
-- Hideki Suzuki vs. Yuji Okabayashi [BJW World Strong Heavyweight Title] (2017.05.05)<br>
-  [BJW Core](https://bjwcore.com/contents/625)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=8439#rateHere)
-  <img src="https://bjwcore.com/storage/generated/images/thumbnail/960x540/content-233509073ed3432027d48b1a83f5fbd2-thumbnail.png?ts=1563883239">
-
-- Abdullah Kobayashi vs. Yuko Miyamoto [BJW Death Match Heavyweight Title / Construction Site] (2012.10.29)<br>
-  [BJW Core](https://bjwcore.com/set/787/contents/795)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=60076#rateHere)
-  <img src="https://bjwcore.com/storage/generated/images/thumbnail/960x540/content-7c590f01490190db0ed02a5070e20f01-thumbnail.jpg?ts=1574392077">
-
-- BJW 30th Anniversary ~ Dainichi Spirit (2025.05.05) (Whole show)<br>
-  [BJW Core](https://bjwcore.com/set/5830)<br>
-  [Archive](https://archive.org/details/bjw-30th-anniversary-dainichi-spirit-05-05-25)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=424221&page=2)
-  <img src="https://bjwcore.com/storage/generated/images/thumbnail/original/content-e520f70ac3930490458892665cda6620-eyecatch.jpg?ts=1747899854" style="height:500px">
-
----
-
-## <a id="dg">`DRAGONGATE / Toryumon`<br>`ドラゴンゲート・闘龍門`</a>
-
-<img src="https://wp.bbm-mobile.com/img/Common/Party/0177.jpg" alt="DRAGONGATE Shield Logo" style="width:150px;height:150px">
-
-- BxB Hulk & Shingo Takagi vs. KENTA & Taiji Ishimori [GHC Junior Heavyweight Tag Team Title] (2008.03.20)<br>
-  [YouTube](https://www.youtube.com/watch?v=eJJkPb-NW5o)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=2843#rateHere)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/eJJkPb-NW5o?si=wp2WWGpouiw17jH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- CIMA vs. Magnitude Kishiwada [No Rope] (2006.07.02)<br>
-  [YouTube](https://www.youtube.com/watch?v=rO305y9IysU)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=49525)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/rO305y9IysU?si=faSOmQH-FJKF0Mp7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Dead Or Alive 2010 (Whole show)
-
-- [Infinity #80 (2008.02.03 - 2008.03.07)](https://vkvideo.ru/video618006569_456239142)
-
-- [BxB Hulk, Cyber Kong & Shingo Takagi vs. Antonio Honda, HARASHIMA & Kota Ibushi (2008.04.06)](https://www.dailymotion.com/video/x8vuoxa)
-
-- Rey De Parejas 2025 Finals - (2025.03.30) (Whole show)<br>
-  [DG Network](https://dragongate.live/title/?program=live_Stream2025&episode=44)
-  <img src="https://pbs.twimg.com/media/GnRq8Q3bAAA6jeZ?format=png&name=900x900">
-
-- CIMA vs. Shingo Takagi [Open The Dream Gate Title] (2007.11.25)<br>
-  [VK](https://vkvideo.ru/video-198278016_456239294)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=2824#rateHere)
-
-- Dragon Kid vs. HUB [Open The Brave Gate Title] (2013.03.02)<br>
-  [VK](https://vkvideo.ru/video-207689490_456239729)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=1760350_4fd07c177ec8b0e7ff9799721beb1aa6)
-
----
-
-## <a id="freedoms">`FREEDOMS`</a>
-
-- Jun Kasai vs. Masashi Takeda [Glass Death Match] (2009.12.25)<br>
-  [YouTube](https://www.youtube.com/watch?v=xDDeJ2feDj0)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=886787_629c204b702b50869fe3b96fed7ab387)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/xDDeJ2feDj0?si=eqzX3JjIropWkuLa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Jun Kasai vs. Masashi Takeda [No Canvas + Glass Board Death Match] (2013.08.29)<br>
-  [YouTube](https://www.youtube.com/watch?v=G65XT6-7axI)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=100292)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/G65XT6-7axI?si=5Nz4HsTEtvz4TEvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Jun Kasai vs. Yuko Miyamoto [Scaffold & Glass Board Death Match] (2013.12.25)<br>
-  [YouTube](https://youtu.be/Kra7eiCLODo?si=tqGtn5QwSvhxW5Wc)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=45517#rateHere)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/Kra7eiCLODo?si=tqGtn5QwSvhxW5Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## <a id="njpw">`New Japan Pro Wrestling`<br>`新日本プロレス`</a>
-
-<img src="https://wp.bbm-mobile.com/img/Common/Party/0001.png" alt="NJPW Logo" style="width:150px;height:150px">
-
-- Kazuchika Okada vs. Tetsuya Naito [IWGP Heavyweight Title] (2016.04.10)<br>
-  [NJPW WORLD](https://watch.njpwworld.com/details/37839)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=7371#rateHere)
-  <img src="https://i.imgur.com/iiEoMt4.jpeg" alt="Graphic for Kazuchika Okada vs. Tetsuya Naito IWGP Heavyweight title match in NJPW's Invasion Attack 2016 event">
-
-- Satoshi Kojima vs. Toshiaki Kawada (2001.06.06)<br>
-  [Archive (Vid #7)](<https://archive.org/details/super-ability-faction-declaration-2001/2001.06.06g-NJPW-New+Japan+Pro-Wrestling+VS+All+Japan+Pro-Wrestling+5+VS+5+Single+Match+%235-Satoshi+Kojima+VS+(AJPW)+Toshiaki+Kawada.mp4>)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=8163#rateHere)
-  <iframe src="https://archive.org/embed/super-ability-faction-declaration-2001/2001.06.06g-NJPW-New+Japan+Pro-Wrestling+VS+All+Japan+Pro-Wrestling+5+VS+5+Single+Match+%235-Satoshi+Kojima+VS+(AJPW)+Toshiaki+Kawada.mp4" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-- Yuji Nagata vs. Yoshihiro Takayama [IWGP & NWF Heavyweight Title] (2003.05.02)<br>
-  [NJPW WORLD](https://watch.njpwworld.com/details/57221)<br>
-  [Archive (Vid #14)](https://archive.org/details/ultimate-crush)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=2371#rateHere)
-  <iframe src="https://archive.org/embed/ultimate-crush/2003.05.02n-NJPW-IWGP+%26+NWF+Heavyweight+Double+Championship+Match-Yuji+Nagata+(IWGP+(C-V11)+VS+(NWF+(C-V4)+Yoshihiro+Takayama.mp4" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-- Yuji Nagata vs. Koji Kanemoto [G1 Climax 2006 Block B] (2006.08.12)<br>
-  [VK](https://vkvideo.ru/video-162834481_456241458)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=2428#rateHere)
-
-- Hiroshi Tanahashi & Koji Kanemoto vs. Takeshi Morishima & Kota Ibushi (2009.05.05)<br>
-  [VK](https://vkvideo.ru/video-186832985_456239915)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=3776#rateHere)
-
-- Shinya Hashimoto vs. Riki Choshu [IWGP Heavyweight Title] (1994.06.15)<br>
-  [NJPW WORLD](https://watch.njpwworld.com/details/44032)<br>
-  [Archive (starts at 21:42 of Vid #3)](https://archive.org/details/njpw-wpw-94.5.28-best.of-the-super-junior-tv-asahi/NJPW.WPW.94.6.25.Super.Strong.Men.Declaration.5.Part.1.TV-Asahi.XviD.avi)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=32444#rateHere)
-  <iframe src="https://archive.org/embed/njpw-wpw-94.5.28-best.of-the-super-junior-tv-asahi/NJPW.WPW.94.6.25.Super.Strong.Men.Declaration.5.Part.1.TV-Asahi.XviD.avi" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-- Satoshi Kojima vs. Shinsuke Nakamura [IWGP Heavyweight Title] (2005.03.26)<br>
-  [NJPW WORLD](https://watch.njpwworld.com/details/41559)<br>
-  [VK](https://vkvideo.ru/video547965748_456239225)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=11705#rateHere)
-
-- Satoshi Kojima vs. Hiroyoshi Tenzan [IWGP Heavyweight Title] (2005.05.14)<br>
-  [NJPW WORLD](https://watch.njpwworld.com/details/42768)<br>
-  [VK](https://vkvideo.ru/video547965748_456239241)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=82823#rateHere)
-
----
-
-## <a id="z1">`ZERO-1`</a>
-
-- Masato Tanaka vs. Shinya Hashimoto (2003.11.07)<br>
-  [YouTube](https://youtu.be/Xmf_XU6YszM?si=0Yx5qe_glzP1SrGM)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=13572#rateHere)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/Xmf_XU6YszM?si=nYed5Sp08PvbrmKN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## <a id="puro-independent">`Independent`</a>
-
-- Kakuto Tanteidan III ~ One Life To Live (whole show)<br>
-  [WRESTLE UNIVERSE](https://www.wrestle-universe.com/en/videos/wuYftuHsYthAbx6zRFNakp)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=419718&page=2)
-  <img src="https://image.asset.wrestle-universe.com/bLiyDsSrhfr34tnpmGf5VF/bLiyDsSrhfr34tnpmGf5VF?dpr=1&fit=clip&format=webply&width=640">
-
-- Fortune Dream 10 - 2025.04.16 (Whole show)<br>
-  [Archive](https://archive.org/details/fortune-dream-10-16-04-25)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=423749&page=2)
-  <iframe src="https://archive.org/embed/fortune-dream-10-16-04-25" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
----
-
-# <a id="joshi">`Japanese Women's ProWres`<br><br>`女子プロレス`</a>
 
 ## <a id="awg">`Actwres girl'Z (AWG)`</a>
 
@@ -458,7 +257,8 @@ Click on the promotions to get you there quick.
 
 - Tsukasa Fujimoto vs. Sareee (2019.09.14)<br>
   [NicoVideo](https://www.nicovideo.jp/watch/so36087373)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=11945#rateHere)
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=11945#rateHere)<br>
+  <img src="https://i.imgur.com/TV39xNr.jpeg">
 
 - Risa Sera vs. Maya Yukihi [ICExInfinity Title Tournament Final] (2019.09.14)<br>
   [NicoVideo](https://www.nicovideo.jp/watch/so36087373)<br>
@@ -470,6 +270,24 @@ Click on the promotions to get you there quick.
   [VK](https://vkvideo.ru/video-4499945_456243658)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=238122&page=2)
   <img src="https://iceribbon.com/image/news/nid_2298_img1.jpg" alt="DVD cover for Ice Ribbon's Ice In Wonderland 2019 show">
+
+- Natsuki Taiyo & Tsukasa Fujimoto vs. Io Shirai & Kaori Yoneyama (2009.08.23)<br>
+  [NicoVideo](https://www.nicovideo.jp/watch/so37278066)<br>
+  [VK](https://vkvideo.ru/video487517522_456239732)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=53183#rateHere)<br>
+  <img src="https://i.imgur.com/8Sv3Kyl.jpeg">
+
+- Nanae Takahashi vs. Emi Sakura (2009.08.23)<br>
+  [NicoVideo](https://www.nicovideo.jp/watch/so37278066)<br>
+  [VK](https://vkvideo.ru/video487517522_456239732)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=43235#rateHere)<br>
+  <img src="https://i.imgur.com/jCcfD64.jpeg">
+
+- Tsukasa Fujimoto vs. Syuri (2020.08.23)<br>
+  [NicoVideo](https://www.nicovideo.jp/watch/so37779619)<br>
+  [VK](https://vkvideo.ru/video-4499945_456245214)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=5436109_4b831ef1a4ed4c40111f48a693ae4091)<br>
+  <img src="https://i.imgur.com/j9HVjKk.jpeg">
 
 ---
 
@@ -823,6 +641,11 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=12066#rateHere)<br>
   <img src="https://www.stardom-world.com/storage/generated/images/thumbnail/960x540/content-e17184bcb70dcf3942c54e0b537ffc6d-thumbnail.jpg?ts=1580072731">
 
+- Syuri vs. Saya Kamitani [5STAR GP 2021 BLUE STARS] (2021.07.31)<br>
+  [Stardom World](https://www.stardom-world.com/set/3020/contents/3017?fcid=24)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=38160#rateHere)<br>
+  <img src="https://www.stardom-world.com/storage/generated/images/thumbnail/960x540/content-248024541dbda1d3fd75fe49d1a4df4d-thumbnail.jpg?ts=1628058012">
+
 ---
 
 ## <a id="tjpw">`Tokyo Joshi Pro Wrestling`<br>`東京女子プロレス`</a>
@@ -901,7 +724,7 @@ Click on the promotions to get you there quick.
 
 ---
 
-## <a id="joshi-independent">`Independent`</a>
+## <a id="independent">`Independent`</a>
 
 - Hana Kimura Debut Special Produce ~HANA~ (2016.08.07) (whole show)<br>
   [Archive](https://archive.org/details/08-07-2016-hana-kimura-debut-special-produce-hana)<br>
@@ -930,106 +753,3 @@ Click on the promotions to get you there quick.
   [Archive](https://archive.org/details/nomads-freelance-summit-2022.05.20)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=343249&page=2)
   <iframe src="https://archive.org/embed/nomads-freelance-summit-2022.05.20" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
----
-
-# <a id="lucha">`Lucha Libre`</a>
-
-## <a id="cmll">`Consejo Mundial De Lucha Libre`</a>
-
-<img src="https://cmll.com/wp-content/uploads/2024/03/LOGO-CMLL-MR-300x145.png" alt="CMLL Logo">
-
-- El Hijo Del Santo vs. Negro Casas [Mask vs. Hair / Mascara vs Caballera] (1997.09.19)<br>
-  [YouTube](https://youtu.be/qlcGpxXxSwk?si=ToHzlZwKZsdStV3s)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=4535#rateHere)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/qlcGpxXxSwk?si=ToHzlZwKZsdStV3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- La Sombra vs Volador Jr. [Super Libre (No Rules)] (2013.08.16)<br>
-  [YouTube](https://www.youtube.com/watch?v=UeHhTjQtU44)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=98976)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00029000/00029868.php)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/UeHhTjQtU44?si=E3wTh2huovaroFQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Rey Cometa vs. Barbaro Cavernario [Hair vs Hair B03] (2014.09.19)<br>
-  [YouTube](https://www.youtube.com/watch?v=Oc1gdn394m8)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00036000/00036720.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=6281#rateHere)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/Oc1gdn394m8?si=i4-DkctFauC2qZvb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- KONOSUKE TAKESHITA vs. Angel De Oro [NEVER Openweight Title] (2025.02.28)<br>
-  [YouTube (Member's Only)](https://www.youtube.com/watch?v=hqEUPeTtpNU&t=8950s)<br>
-  [VK](https://vkvideo.ru/video5773044_456258974)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00134000/00134185.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=110495#rateHere)
-  <img src="https://pbs.twimg.com/media/Gk6-zmvaEAAA96A?format=jpg&name=large" alt="Graphic for KONOSUKE TAKESHITA vs. Angel De Oro NEVER Openweight Title match made by CMLL">
-
-- CMLL Homenaje A Dos Leyendas 2025 - 2025.03.21 (Whole show)<br>
-  [YouTube (Member's Only)](https://youtu.be/XjJIvejyffw?si=8UR8ntJ_mMg0byMM)<br>
-  [Archive](https://archive.org/details/cmll-homenaje-a-dos-leyendas-2025-21-03-25)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00133000/00133862.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=418974&page=2)
-  <img src="https://pbs.twimg.com/media/Gmk-ZtpWAAIgJ90?format=jpg&name=4096x4096" alt="Poster for CMLL Homenaje A Dos Leyendas 2025 containing all the matches in the card" style="height:500px">
-
-- Mascara Dorada, Neon, Star Jr. vs. Zandokan Jr., Difunto, Barboza (2025.03.28)<br>
-  [YouTube (Member's only)](https://www.youtube.com/live/5NdQAYCN-N4?si=oiDJIvPFnOgdwkR0)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00134000/00134617.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=422482&page=2)
-  <img src="https://pbs.twimg.com/media/GnJs-r1bcAAPnkJ?format=jpg&name=large" alt="Graphic for Mascara Dorada, Neon, Star Jr. vs. Zandokan Jr., Difunto, Barboza">
-
-- Templario vs. Flip Gordon vs. Guerrero Maya Jr. [Campeon Universal Del CMLL 2025 First Round / 3 Way Elimination] (2025.04.04)<br>
-  [YouTube (Member's only)](https://www.youtube.com/live/HE_Dun44DjY?si=eBxT4ea18g67BLuU)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00134000/00134880.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=113149#rateHere)
-  <img src="https://pbs.twimg.com/media/GnuRedWW0AAh_My?format=jpg&name=medium" alt="Graphic for the Campeon Universal Del CMLL 2025 First Round match between Templario, Flip Gordon, and Guerrero Maya Jr.">
-
-- Titan vs. Mascara Dorada vs. Magia Blanca [Campeon Universal Del CMLL 2025 First Round / 3 Way Elimination] (2025.04.04)<br>
-  [YouTube (Member's only)](https://www.youtube.com/live/HE_Dun44DjY?si=eBxT4ea18g67BLuU)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00134000/00134880.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=113105#rateHere)
-  <img src="https://pbs.twimg.com/media/GnuB1wDXYAAFso4?format=jpg&name=medium" alt="Graphic for the Campeon Universal Del CMLL 2025 1st round match between Titan, Mascara Dorada, and Magia Blanca">
-
-- Mephisto & Euforia vs. Futuro & Max Star [Campeon Universal Del CMLL 2025 First Round / Tag Match] (2025.04.11)<br>
-  [YouTube (Member's only)](https://www.youtube.com/live/jD1Ju9hXvc4?si=4RI67ftxGeKQK4LP)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00135000/00135141.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=113570#rateHere)
-  <img src="https://pbs.twimg.com/media/GoSNelOWUAA5Olc?format=jpg&name=medium" alt="">
-  x
-- CMLL 69th Aniversario De Arena Mexico - 2025.04.25 (whole show)<br>
-  [YouTube (Member's only)](https://www.youtube.com/live/o6q1i9wWcNw?si=lvsZzDCPxPOEgpLJ)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00135000/00135690.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=423998&page=2)
-  <img src="https://pbs.twimg.com/media/GpZTeZTXIAAyaok?format=jpg&name=4096x4096" alt="Poster for CMLL 69th Aniversario De Arena Mexico containing all the matches in the card" style="height:500px">
-
-- La Catalina vs. Persephone (2025.05.16)<br>
-  [YouTube (Member's only)](https://www.youtube.com/live/4LmfFnCulM8?si=ce_xhJSfutMSL3nN)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00136000/00136468.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=115658#rateHere)
-  <img src="https://pbs.twimg.com/media/GrGx8IqXIAA22dJ?format=jpg&name=medium" alt="Graphic for the singles match between La Catalina and Persephone">
-
-- Los Infernales (Averno, Euforia & Mephisto) vs. El Sky Team (Mascara Dorada, Mistico & Neon) [CMLL World Trios Title] (2025.05.16)<br>
-  [YouTube (Member's only)](https://www.youtube.com/live/4LmfFnCulM8?si=ce_xhJSfutMSL3nN)<br>
-  [Lucha DB](https://luchadb.com/events/shows/00136000/00136468.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=115654#rateHere)
-  <img src="https://pbs.twimg.com/media/GrGI0_zXIAAHaUg?format=jpg&name=medium" alt="Graphic for the CMLL World Trios title match between the champions Los Infernales and the challengers El Sky Team">
-
----
-
-## <a id="iwrg">`International Wrestling Revolution Group`</a>
-
-- Bombero Infernal vs. Cerebro Negro [Hair vs. Hair/Cabellera] (2025.05.18)<br>
-  [YouTube](https://www.youtube.com/live/O82H_OKgwOU?si=g75Jg9iE3wjMzAG7&t=8769)<br>
-  [LuchaDB](https://luchadb.com/events/shows/00136000/00136575.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=425863&page=2)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/O82H_OKgwOU?si=g75Jg9iE3wjMzAG7&amp;start=8769" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- Arez vs. Flamita [IWRG Intercontinental Middleweight Title] (2025.04.06)<br>
-  [YouTube](https://www.youtube.com/live/KqIS8WVsck4?si=QrBFjmjRy1iGMT_H&t=4172)<br>
-  [LuchaDB](https://luchadb.com/events/shows/00135000/00135046.php)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=423185&page=2)
-  <iframe width="600" height="300" src="https://www.youtube.com/embed/KqIS8WVsck4?si=QrBFjmjRy1iGMT_H&amp;start=4172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-## <a id="lucha-indy">`Independent`</a>
-
----

@@ -2,13 +2,12 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import fs from 'fs';
 import { jsonc } from "jsonc";
-import furigana from "@myxotod/eleventy-plugin-furigana";
 
 const config = jsonc.parse(fs.readFileSync('src/_data/config.jsonc', 'utf8'));
 
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets/");
-  eleventyConfig.addPassthroughCopy("src/social.jpg");
+  eleventyConfig.addPassthroughCopy("src/social.png");
   eleventyConfig.addPassthroughCopy("src/favicon.ico");
 
   eleventyConfig.addDataExtension("jsonc", (contents) => {
@@ -16,9 +15,8 @@ export default function (eleventyConfig) {
 	});
 
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
-  eleventyConfig.addPlugin(furigana);
   eleventyConfig.addPlugin(feedPlugin, {
-		type: "atom", 
+		type: "atom",
 		outputPath: "/feed.xml",
 		collection: {
 			name: "posts",
@@ -37,6 +35,8 @@ export default function (eleventyConfig) {
 		}
 	});
 
+  eleventyConfig.addGlobalData("layout", "layout.html");
+
   // LAST UPDATE FORMAT
   eleventyConfig.addGlobalData('lastUpdate', () => {
     let now = new Date().toUTCString();
@@ -46,7 +46,7 @@ export default function (eleventyConfig) {
     const DMY = `${day} ${month} ${year}`;
     const MDY = `${month} ${day}, ${year}`;
     const YMD = `${year} ${month} ${day}`;
-    return YMD;
+    return MDY;
   });
 
   // DATE FORMAT
@@ -65,7 +65,41 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("getLatestFive", function(value) {
     const converted = value.slice(0, 5);
     return converted;
-    });
+  });
+
+  eleventyConfig.addFilter("filterTags", function(value) {
+    let newTags = [];
+    let anyTags = false;
+    for (let i in value) {
+      if (i != 'posts' && i != 'navbar' && i != 'all') {
+        newTags.push(i);
+        anyTags = true;
+      }
+    }
+    if (anyTags) {
+      return newTags.sort();
+    } else {
+      return false;
+    }
+
+  });
+
+  eleventyConfig.addFilter("cleanPages", function(value) {
+    const clean = [];
+    for (let i = 0; i < value.length; i++) {
+      value[i].data.title && clean.push(value[i]);
+    }
+    return clean;
+  });
+
+  eleventyConfig.addFilter("forceReverse", function(value) {
+    return value.toReversed();
+  });
+
+  eleventyConfig.addFilter("debug", function(value) {
+    console.log(value);
+    return value;
+  });
 
   return {
     dir: {

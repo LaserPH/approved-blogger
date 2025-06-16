@@ -96,10 +96,14 @@ aside a{
     color: magenta;
 }
 
+.tagged a {
+    color:magenta
+}
 
 p a:hover, 
-footer address a:hover{
-    color: rgba(255, 0, 255, 0.514);
+footer address a:hover,
+.tagged a:hover{
+    color: rgba(255, 0, 140, 0.938);
 }
 
 blockquote {

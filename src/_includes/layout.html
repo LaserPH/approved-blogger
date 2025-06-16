@@ -9,6 +9,7 @@ layout: head.html
                 <li><a href="{{ i.url }}">{{ i.data.title }}</a></li>
             {% endfor %}
         </ol>
+        {% include "navbar.html" %}
     </nav>
     <main>
         <header>
@@ -34,6 +35,7 @@ layout: head.html
     {% assign previousPost = collections.posts | getPreviousCollectionItem %}
     {% assign nextPost = collections.posts | getNextCollectionItem %}
     {% if previousPost or nextPost %}
+
     <nav id="pagination">
         {% if previousPost %}
         <section class="pagectrl pageprev">
@@ -50,27 +52,29 @@ layout: head.html
         {% endif %}
     </nav>
     {% endif %}
+
+    {% if postCheck %}
+    {% include "comments.html" %}
+    {% endif %}
+
     <footer>
-        <aside>
-            <p>
-                {{ config.siteName }} is written by 
-                {% if config.authorLink != "" %}
-                    <a href="{{ config.authorLink }}">{{ config.siteAuthor }}</a>
-                    {% else %}
-                    {{ config.siteAuthor }}
-                {% endif %}
-            </p>
-            <a href="#">back to top</a>
-        </aside>
+        <p>
+            {{ config.siteName }} is written by 
+            {% if config.authorLink != "" %}
+                <a href="{{ config.authorLink }}">{{ config.siteAuthor }}</a>
+                {% else %}
+                {{ config.siteAuthor }}
+            {% endif %}
+        </p>
         {% if config.authorContact != "" %}
             <address>Contact: <a href="mailto:{{ config.authorContact}}">{{ config.authorContact }}</a></address>
         {% endif %}
-        <p>
-            <time class="lastupdate" datetime="{{lastUpdate}}">Last update: {{ lastUpdate }}</time>
-            <a href="/feed.xml">RSS</a>
-        </p>
-        <a href="https://neocities.org/">
-            <img src="https://the-approved.neocities.org/neocities.png" alt="Hosted by neocities">
-        </a>
+        <aside>
+            <p>
+                <time class="lastupdate" datetime="{{lastUpdate}}">Last update: {{ lastUpdate }}</time>
+                <a href="/feed.xml">RSS</a>
+            </p>
+            <a href="#">back to top</a>
+        </aside>
     </footer>
-</body> 
+</body>

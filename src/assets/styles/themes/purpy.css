@@ -60,7 +60,8 @@ nav ol li a:visited,
 nav ol li a:link, 
 nav ol li a, 
 section a time, 
-footer address{
+footer address,
+details{
     color: white;
 }
 

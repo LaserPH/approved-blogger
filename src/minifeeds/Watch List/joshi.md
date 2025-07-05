@@ -1,5 +1,6 @@
 ---
 title: Joshi Puroresu (Japanese Women's Pro-Wrestling)
+date: Last Modified
 tags: ["Watch List"]
 ---
 
@@ -23,6 +24,7 @@ Click on the promotions to get you there quick.
 - <a href="#oz">OZ ACADEMY</a>
 - <a href="#purej">PURE-J</a>
 - <a href="#reina">REINA</a>
+- <a href="#sead">SEAdLINNNG</a>
 - <a href="#senjo">SENDAI GIRLS</a>
 - <a href="#stardom">STARDOM</a>
 - <a href="#tjpw">TJPW</a>
@@ -56,8 +58,9 @@ Click on the promotions to get you there quick.
 <img src="https://www.samurai-tv.com/program/zenjyoclassics/img/hero.jpg" style="height:300px">
 
 - Momoe Nakanishi & Yumiko Hotta vs. Amazing Kong & Shark Tsuchiya [Steel Cage] (2002.12.22)<br>
-[CAGEMATCH](https://www.cagematch.net/?id=111&nr=105157#rateHere)
-<iframe width="600" height="300" src="https://www.youtube.com/embed/JvkD3l3nsZA?si=JVxD-JT1xi4gxwe6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  [YouTube](https://www.youtube.com/watch?v=JvkD3l3nsZA)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=105157#rateHere)<br>
+  <iframe width="600" height="300" src="https://www.youtube.com/embed/JvkD3l3nsZA?si=JVxD-JT1xi4gxwe6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Manami Toyota & Toshiyo Yamada vs. Mima Shimoda & Etsuko Mita [WWWA Tag Team Title B03] (1994.01.24)<br>
   [YouTube](https://youtu.be/ETVlHXfsIPM?si=xy3cbGzr6gyQHC6S&t=1982)<br>
@@ -75,16 +78,18 @@ Click on the promotions to get you there quick.
   Zap T vs. Eagle Sawai [Death Match]<br>
   (1999.03.10)<br>
   [YouTube](https://youtu.be/0f00KOItBAQ?si=Z6ol47wn1J4QNfn_)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=40720&page=2)
+  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=40720&page=2)<br>
   <iframe width="600" height="300" src="https://www.youtube.com/embed/0f00KOItBAQ?si=Z6ol47wn1J4QNfn_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Yumiko Hotta vs. Kaoru Ito [Steel Cage Hair Vs. Hair] (2001.12.16)<br>
   [YouTube](https://youtu.be/bfyh6RrIiUg?si=fwh8PJuWY6NR-VJe)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=54985#rateHere)
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=54985#rateHere)<br>
+  <iframe width="600" height="300" src="https://www.youtube.com/embed/bfyh6RrIiUg?si=vuNrUGM24bi7LR6O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Mima Shimoda & Takako Inoue vs. Etsuko Mita & Nanae Takahashi [WWWA Tag Team Title B03] (2003.04.20)<br>
   [YouTube](https://youtu.be/MvHcE9v0wgA?si=rC3CQFUF5quRUe-g)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=227541)
+  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=227541)<br>
+  <iframe width="600" height="300" src="https://www.youtube.com/embed/MvHcE9v0wgA?si=6fWB33OPCdi5j8Pu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Manami Toyota vs. Yumiko Hotta [WWWA World Title] (1996.01.22)<br>
   [YouTube](https://youtu.be/8ZLBd9dF2rE?si=5hRVA3w5tUFRUhrB)<br>
@@ -130,17 +135,17 @@ Click on the promotions to get you there quick.
 
 - Syuri & Ranna Yagami vs. Nanami & Rina Amikura (2025.02.16)<br>
   [YouTube](https://www.youtube.com/watch?v=EufSu6OsGhs)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=110566#rateHere)
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=110566#rateHere)<br>
   <iframe width="600" height="300" src="https://www.youtube.com/embed/EufSu6OsGhs?si=8kXO1TpDDM_MBskA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Risa Sera vs. Haruka Umesaki [World Woman Pro-Wrestling Diana World Title] (2025.04.27)<br>
   [YouTube](https://www.youtube.com/watch?v=MvzTJ_ofdrQ)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=114844#rateHere)
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=114844#rateHere)<br>
   <iframe width="600" height="300" src="https://www.youtube.com/embed/MvzTJ_ofdrQ?si=1AnNIM2ll0g5Zucs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Mika Iwata & Miyuki Takase vs. Ayako Sato & Hanako Nakamori (2025.02.14)
   [YouTube](https://www.youtube.com/watch?v=5B5MZmYiRDc)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=109932#rateHere)
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=109932#rateHere)<br>
   <iframe width="600" height="300" src="https://www.youtube.com/embed/5B5MZmYiRDc?si=vL4oHdsy34qvRzkl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -216,12 +221,6 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=24125#rateHere)<br>
   <img src="https://pbs.twimg.com/media/ElZEGP4VMAA8U0j?format=jpg&name=900x900">
 
-- Suzu Suzuki vs. Haruka Umesaki [ICExInfinity Title] (2020.10.31)<br>
-  [NicoVideo](https://www.nicovideo.jp/watch/so38393089)<br>
-  [VK](https://vkvideo.ru/video-4499945_456245081)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=23972#rateHere)<br>
-  <img src="https://pbs.twimg.com/media/ElZEUw9U0AAF8EG?format=jpg&name=900x900">
-
 - Tsukasa Fujimoto & Arisa Nakajima vs. Tsukushi & Saori Anou (2020.10.31)<br>
   [NicoVideo](https://www.nicovideo.jp/watch/so38393089)<br>
   [VK](https://vkvideo.ru/video-4499945_456245081)<br>
@@ -255,11 +254,6 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=11640#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/1ec8873GQxg?si=gZMsLPb8kZHVgj7R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Tsukasa Fujimoto vs. Sareee (2019.09.14)<br>
-  [NicoVideo](https://www.nicovideo.jp/watch/so36087373)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=11945#rateHere)<br>
-  <img src="https://i.imgur.com/TV39xNr.jpeg">
-
 - Risa Sera vs. Maya Yukihi [ICExInfinity Title Tournament Final] (2019.09.14)<br>
   [NicoVideo](https://www.nicovideo.jp/watch/so36087373)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=44468#rateHere)
@@ -288,6 +282,10 @@ Click on the promotions to get you there quick.
   [VK](https://vkvideo.ru/video-4499945_456245214)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=5436109_4b831ef1a4ed4c40111f48a693ae4091)<br>
   <img src="https://i.imgur.com/j9HVjKk.jpeg">
+
+- Tsukasa Fujimoto vs. Hikaru Shida (2014.03.30)<br>
+  [NicoVideo](https://www.nicovideo.jp/watch/so23899222)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=2043146_615ab15b978473388be74d6ea6b5e2c5)
 
 ---
 
@@ -429,6 +427,11 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=3466360_503badde8d51f4bc116b5bb09c347ca9)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/MKg7GchOvt0?si=gvzLIpKv68QDtwAb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- Satoshi Kojima vs. Misae Genki (2008.11.12)<br>
+  [Archive](https://archive.org/details/neo-2008-12-11-stand-out-2008)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=1100480_2e1a334454d8f574c83d815ce69478b1)<br>
+  <iframe src="https://archive.org/embed/neo-2008-12-11-stand-out-2008" width="600" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ---
 
 ## <a id="oz">`OZ ACADEMY`<br>`OZアカデミー`</a>
@@ -473,6 +476,23 @@ Click on the promotions to get you there quick.
 - Konami & Yuko Miyamoto vs. Kagetsu & Jun Kasai [Fluorescent Light Tubes Death Match] (2016.07.21)<br>
   [YouTube](https://youtu.be/dTDEX1Bz9v8?si=tGzaKhBs32-DaGvG)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=42645#rateHere)
+
+---
+
+## <a id="sead">`SEAdLINNNG`</a>
+
+<img src="https://seadlinnng.com/image/tmariko_template/seadlinnng/seadlinnng/logo.png" alt="SEAdLINNNG logo">
+
+- Arisa Nakaijma vs. Sareee [Beyond The Sea Title] (2023.08.25)<br>
+  [SEAdLINNNG MOVIE+](https://seadlinnng.com/purchased/player/19105?category1=&category2=)<br>
+  [Archive](https://archive.org/details/sead-linnng-8th-anniversary-25-08-23)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=78320#rateHere)<br>
+  <iframe src="https://archive.org/embed/sead-linnng-8th-anniversary-25-08-23" width="600" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+- Arisa Nakajima vs. Tsukasa Fujimoto (2017.12.13)<br>
+  [YouTube](https://youtu.be/buTS2SlebE8?si=fX5mPQ1Ot5GsqoIk)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=26253)<br>
+  <iframe width="600" height="300" src="https://www.youtube.com/embed/buTS2SlebE8?si=P7n6jnX0X4vRZAbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -605,18 +625,6 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=42806#rateHere)
   <img src="https://www.stardom-world.com/storage/generated/images/thumbnail/960x540/content-63bfd6e8f26d1d3537f4c5038264ef36-thumbnail.jpeg?ts=1636292995">
 
-- Syuri vs. AZM [5STAR GP 2022 RED STARS] (2022.07.30)<br>
-  [Stardom World](https://www.stardom-world.com/contents/3927)<br>
-  [Archive](https://archive.org/details/stardom-5-star-grand-prix-2022-day-1-30-07-22)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=57283#rateHere)
-  <img src="https://www.stardom-world.com/storage/generated/images/thumbnail/960x540/content-d2dc6368837861b42020ee72b0896182-thumbnail.jfif?ts=1659520956">
-
-- Mayu Iwatani vs. MIRAI [5STAR GP 2022 BLUE STARS] (2022.07.30)<br>
-  [Stardom World](https://www.stardom-world.com/set/3932/contents/3929)<br>
-  [Archive](https://archive.org/details/stardom-5-star-grand-prix-2022-day-1-30-07-22)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=57290#rateHere)
-  <img src="https://www.stardom-world.com/storage/generated/images/thumbnail/960x540/content-79f69230354b71206fb723c571cce58b-thumbnail.jfif?ts=1659521023">
-
 - Hazuki vs. Giulia [5STAR GP 2022 BLUE STARS] (2022.07.30)<br>
   [Stardom World](https://www.stardom-world.com/set/3932/contents/3931)<br>
   [Archive](https://archive.org/details/stardom-5-star-grand-prix-2022-day-1-30-07-22)<br>
@@ -643,6 +651,7 @@ Click on the promotions to get you there quick.
 
 - Syuri vs. Saya Kamitani [5STAR GP 2021 BLUE STARS] (2021.07.31)<br>
   [Stardom World](https://www.stardom-world.com/set/3020/contents/3017?fcid=24)<br>
+  [Archive](https://archive.org/details/stardom-5-star-grand-prix-2021-day-1-31-07-21)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=38160#rateHere)<br>
   <img src="https://www.stardom-world.com/storage/generated/images/thumbnail/960x540/content-248024541dbda1d3fd75fe49d1a4df4d-thumbnail.jpg?ts=1628058012">
 

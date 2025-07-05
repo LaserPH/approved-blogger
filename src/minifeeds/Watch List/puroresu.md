@@ -107,6 +107,9 @@ Click on the promotions to get you there quick.
   [VK](https://vkvideo.ru/video-207689490_456239729)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=1760350_4fd07c177ec8b0e7ff9799721beb1aa6)
 
+- CIMA, Sanshiro Takagi, TAKA Michinoku vs. Akira Tozawa, BxB Hulk, Cyber Kong (2012.03.01)
+  [CAGEMATCH](https://www.cagematch.net/?id=1&nr=76142&page=3)
+
 ---
 
 ## <a id="freedoms">`FREEDOMS`</a>
@@ -171,6 +174,13 @@ Click on the promotions to get you there quick.
   [NJPW WORLD](https://watch.njpwworld.com/details/42768)<br>
   [VK](https://vkvideo.ru/video547965748_456239241)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=82823#rateHere)
+
+- Hiroshi Tanahashi vs. Katsuyori Shibata (2014.09.21)
+  [NJPW World](https://watch.njpwworld.com/details/49624?shw_ep=1)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=6272#rateHere)
+
+- KUSHIDA (c) vs. Ryusuke Taguchi [IWGP Junior Heavyweight Title] (2014.09.21)
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=6268#rateHere)
 
 ---
 

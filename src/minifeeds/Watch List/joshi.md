@@ -36,6 +36,9 @@ Click on the promotions to get you there quick.
 
 ## <a id="awg">`Actwres girl'Z (AWG)`</a>
 
+<details>
+<summary>Expand for matches</summary>
+
 - Saori Anou vs. Giulia [AWG Title] (2019.07.21)<br>
   [YouTube](https://youtu.be/J9wr9w8EiSQ?si=kr7ucaDZPuwNhebx)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=11599)
@@ -51,11 +54,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=22162#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/FYTN9vC5oPw?si=K9iyebDTuM_ck0i7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="ajw">`All Japan Women's Pro Wrestling`<br>`全日本女子プロレス`</a>
 
 <img src="https://www.samurai-tv.com/program/zenjyoclassics/img/hero.jpg" style="height:300px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Momoe Nakanishi & Yumiko Hotta vs. Amazing Kong & Shark Tsuchiya [Steel Cage] (2002.12.22)<br>
   [YouTube](https://www.youtube.com/watch?v=JvkD3l3nsZA)<br>
@@ -101,11 +109,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=3503#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/sXTvuuHg43A?si=Vv2bYAL1RFTLs9ZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="arsion">`Hyper Visual Fighting Arsion`<br>`アルシオン`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0139.jpg" alt="Arsion logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Ayako Hamada vs. Azumi Hyuga [Queen Of ARSION Title] (2001.02.12)<br>
   [NicoVideo](https://www.nicovideo.jp/watch/sm39941217)<br>
@@ -116,22 +129,32 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=83731#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/dQ3DtMc8y9Y?si=8MU-Ac-sRGYFjNOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="chocopro">`ChocoPro`</a>
 
 <img src="https://assets.bigcartel.com/theme_images/130777446/1.png?auto=format&fit=max&h=300&w=1800" alt="ChocoPro Wrestling logo" style="width:150px;height:150px">
 
+<details>
+<summary>Expand for matches</summary>
+
 - ChocoPro No.447 - "Sakura-ism" (2025.05.05) (Whole show)<br>
   [YouTube](https://www.youtube.com/watch?v=2-m9qFHIjyw)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=115103#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/2-m9qFHIjyw?si=QsszDhv3VI5neh4i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</details>
 
 ---
 
 ## <a id="diana">`DIANA`<br>`ディアナ`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0592.png" alt="DIANA logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Syuri & Ranna Yagami vs. Nanami & Rina Amikura (2025.02.16)<br>
   [YouTube](https://www.youtube.com/watch?v=EufSu6OsGhs)<br>
@@ -148,9 +171,14 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=109932#rateHere)<br>
   <iframe width="600" height="300" src="https://www.youtube.com/embed/5B5MZmYiRDc?si=vL4oHdsy34qvRzkl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="gaea">`GAEA JAPAN`</a>
+
+<details>
+<summary>Expand for matches</summary>
 
 - Chigusa Nagayo & Toshiyo Yamada vs. Mayumi Ozaki & KAORU (2003.05.18)<br>
   [YouTube](https://www.youtube.com/watch?v=BfhsqE062Vg)<br>
@@ -181,11 +209,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=141383)
   <iframe src="https://archive.org/embed/gaea-1995-04-05-memorial-first-gong-in-korakuen" width="600" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="ir">`Ice Ribbon`<br>`アイスリボン`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0302.jpg" alt="Ice Ribbon logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Tsukasa Fujimoto vs. Maya Yukihi [ICExInfinity Title] (2021.03.27)<br>
   [NicoVideo](https://www.nicovideo.jp/watch/so39039005)<br>
@@ -225,11 +258,6 @@ Click on the promotions to get you there quick.
   [NicoVideo](https://www.nicovideo.jp/watch/so38393089)<br>
   [VK](https://vkvideo.ru/video-4499945_456245081)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=23954#rateHere)<br>
-
-- Maya Yukihi vs. Tsukushi [ICExInfinity Title] (2019.03.31)<br>
-  [NicoVideo](https://www.nicovideo.jp/watch/so35045386)<br>
-  [VK](https://vkvideo.ru/video-4499945_456243130)<br>
-  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=17989#rateHere)<br>
 
 - Tsukasa Fujimoto vs. Rina Yamashita (2019.06.15)<br>
   [NicoVideo](https://www.nicovideo.jp/watch/so35418042)<br>
@@ -287,11 +315,16 @@ Click on the promotions to get you there quick.
   [NicoVideo](https://www.nicovideo.jp/watch/so23899222)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=2043146_615ab15b978473388be74d6ea6b5e2c5)
 
+</details>
+
 ---
 
 ## <a id="jto">`Just Tap Out`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/1079.jpg" alt="JTO Logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Azusa Inaba & Rina vs. Tomoka Inaba & Hanan (2024.11.29)
 <iframe width="600" height="300" src="https://www.youtube.com/embed/x0qq5eSb2PM?si=TmSvrsmx5bLiYZio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -299,11 +332,16 @@ Click on the promotions to get you there quick.
 - JTO Hatsu 2025 (2025.01.05) (not released yet)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=416925&page=2)
 
+</details>
+
 ---
 
 ## <a id="jwp">`JWP`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0058.png" alt="JWP logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Kaori Yoneyama vs. Emi Sakura [Hair vs Hair & JWP Openweight Title Match] (2010.09.19)<br>
   [YouTube](https://www.youtube.com/watch?v=yypx4j6ag8g)<br>
@@ -339,20 +377,30 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=194046&page=2)
   <iframe src="https://archive.org/embed/jwp-mania-x-2005-5-15" width="600" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="llpw">`Ladies Legend Pro Wrestling`</a>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Ladies_Legend_Pro-Wrestling.png?20190408155025" alt="LLPW-X Logo">
 
+<details>
+<summary>Expand for matches</summary>
+
 - Shinobu Kandori vs. Meiko Satomura (2007.02.12)<br>
   [VK](https://vkvideo.ru/video180842215_456241211)
+
+</details>
 
 ---
 
 ## <a id="marigold">`Dream Star Fighting Marigold`<br>`マリーゴールド`</a>
 
 <img src="https://dsf-marigold.com/wp-content/uploads/2024/11/5e4dab3fc8a4dfffeb9b34517e940875.jpg" alt="Dream Star Fighting Marigold Logo" style="height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Miku Aono vs. Misa Matsui<br>
   Nanae Takahashi & Seri Yamaoka vs. Maria & Riko Kawahata [Twin Star Title]<br>
@@ -378,11 +426,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=425834&page=2)
   <img src="https://image.asset.wrestle-universe.com/a2zifvG21tXHq36g1UH8bF/a2zifvG21tXHq36g1UH8bF?dpr=1&fit=clip&format=webply&width=640">
 
+</details>
+
 ---
 
 ## <a id="marvelous">`Marvelous That's Women's Pro Wrestling`<br>`マーベラス`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0933.jpg" alt="Marvelous Logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Mio Momono vs. Itsuki Aoki (2022.10.15)<br>
   [YouTube](https://youtu.be/IKKyKtnn6ec?si=ZGtCZnzyp-NtfkWZ)
@@ -415,11 +468,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=425929&page=2)
   <img src="https://media.zaiko.io/zaiko/w_2400/1_485p0ckrgrokvxuc9g3us">
 
+</details>
+
 ---
 
 ## <a id="neo">`NEO`</a>
 
 <img src="https://upload.wikimedia.org/wikipedia/en/c/cf/NEO_Japan_Ladies_Pro-Wrestling_logo.png" alt="NEO Logo" style="height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Azumi Hyuga vs. Yoshiko Tamura [NWA Women's Pacific & NEO Title] (2003.05.05)<br>
   [Archive](https://archive.org/details/neo-05-05-2003)<br>
@@ -432,11 +490,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=1100480_2e1a334454d8f574c83d815ce69478b1)<br>
   <iframe src="https://archive.org/embed/neo-2008-12-11-stand-out-2008" width="600" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="oz">`OZ ACADEMY`<br>`OZアカデミー`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0084.png" alt="OZ Academy logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Saori Anou vs. Syuri (2020.02.16)<br>
   [VK](https://vkvideo.ru/video-5899799_456243860)<br>
@@ -458,30 +521,45 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=413346&page=2)
   <iframe src="https://archive.org/embed/oz-academy-eternal-sparkle-at-maebashi-01-12-24" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="purej">`PURE-J`</a>
 
 <img src="https://pure-j.jp/wp-content/uploads/2022/04/PURE-J%E3%83%AD%E3%82%B4.jpg" alt="PURE-J Logo" style="height:150px">
 
+<details>
+<summary>Expand for matches</summary>
+
 - Hakako Nakamori vs. DASH Chisako [PURE-J Openweight Title Hair Vs. Hair] (2017.12.17) <br>
   [YouTube](https://www.youtube.com/watch?v=mp8rus9Lr4E)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=15840#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/mp8rus9Lr4E?si=KwgUD7yJ80gLoX1_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="reina">`REINA`</a>
 
+<details>
+<summary>Expand for matches</summary>
+
 - Konami & Yuko Miyamoto vs. Kagetsu & Jun Kasai [Fluorescent Light Tubes Death Match] (2016.07.21)<br>
   [YouTube](https://youtu.be/dTDEX1Bz9v8?si=tGzaKhBs32-DaGvG)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=42645#rateHere)
+
+</details>
 
 ---
 
 ## <a id="sead">`SEAdLINNNG`</a>
 
 <img src="https://seadlinnng.com/image/tmariko_template/seadlinnng/seadlinnng/logo.png" alt="SEAdLINNNG logo">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Arisa Nakaijma vs. Sareee [Beyond The Sea Title] (2023.08.25)<br>
   [SEAdLINNNG MOVIE+](https://seadlinnng.com/purchased/player/19105?category1=&category2=)<br>
@@ -494,11 +572,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=26253)<br>
   <iframe width="600" height="300" src="https://www.youtube.com/embed/buTS2SlebE8?si=P7n6jnX0X4vRZAbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="senjo">`SENDAI GIRLS / SENJO`<br>`センダイガールズ・仙女`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0246.png" alt="SENDAI GIRLS Logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Meiko Satomura vs. Syuri (2016.03.11)<br>
   [YouTube](https://www.youtube.com/watch?v=_N85-typ-rY)<br>
@@ -572,11 +655,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=425287&page=2)
   <img src="https://image.asset.wrestle-universe.com/oUrPBtao6KsZuopVxVjYfK/oUrPBtao6KsZuopVxVjYfK?dpr=1&fit=clip&format=webply&width=640">
 
+</details>
+
 ---
 
 ## <a id="stardom">`World Wonder Ring Stardom`<br>`スターダム`</a>
 
 <img src="https://wwr-stardom.com/images/common/logo.png" alt="STARDOM Logo" style="height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Nanae Takahashi vs. Natsuki Taiyo [World Of Stardom Title] (2011.11.12)<br>
   [YouTube](https://youtu.be/d9dcf74dR2k?si=75aximLwyGnkkGLQ)<br>
@@ -655,11 +743,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=38160#rateHere)<br>
   <img src="https://www.stardom-world.com/storage/generated/images/thumbnail/960x540/content-248024541dbda1d3fd75fe49d1a4df4d-thumbnail.jpg?ts=1628058012">
 
+</details>
+
 ---
 
 ## <a id="tjpw">`Tokyo Joshi Pro Wrestling`<br>`東京女子プロレス`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0710.jpg" alt="TJPW Logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Max The Impaler & Pom Harajuku vs. Shoko Nakajima & Hyper Misao [Futari Wa Max Heart Tournament 2025 Final] (2025.02.08)<br>
   [WRESTLE UNIVERSE](https://www.wrestle-universe.com/en/videos/ay5MbG6n9hnrGsJi2Drz1R)<br>
@@ -677,11 +770,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=416729&page=2)
   <img src="https://www.trillertv.com/thumbs/vf/2pgx9/tjpw-live_in_las_vegas_2025_1920x1080/tjpw-live-in-las-vegas-2025-1600x900fit.webp">
 
+</details>
+
 ---
 
 ## <a id="wave">`Pro Wrestling WAVE`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0376.jpg" alt="WAVE logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Ryo Mizunami vs. Tsukasa Fujimoto [Catch The WAVE 2016 Final] (2016.06.05)<br>
   [YouTube](https://youtu.be/OJaVcilF2Sk?si=A3PcM19Y7JFtCfWS)<br>
@@ -723,17 +821,27 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=77141#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/3s4hTGi1kyM?si=ljebil8omSCJ5k40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="z1-joshi">`ZERO1`</a>
+
+<details>
+<summary>Expand for matches</summary>
 
 - Mayumi Ozaki & Saori Anou vs. Aja Kong & Hiroyo Matsumoto [Blast Queen Title / Super Plasma Blast Death Match] (2020.02.24)<br>
   [VK](https://vkvideo.ru/video-4499945_456244243)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=26687#rateHere)
 
+</details>
+
 ---
 
 ## <a id="independent">`Independent`</a>
+
+<details>
+<summary>Expand for matches</summary>
 
 - Hana Kimura Debut Special Produce ~HANA~ (2016.08.07) (whole show)<br>
   [Archive](https://archive.org/details/08-07-2016-hana-kimura-debut-special-produce-hana)<br>
@@ -762,3 +870,5 @@ Click on the promotions to get you there quick.
   [Archive](https://archive.org/details/nomads-freelance-summit-2022.05.20)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=343249&page=2)
   <iframe src="https://archive.org/embed/nomads-freelance-summit-2022.05.20" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+</details>

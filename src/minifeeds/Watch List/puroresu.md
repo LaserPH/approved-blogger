@@ -21,6 +21,9 @@ Click on the promotions to get you there quick.
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0002.png" alt="AJPW logo" style="width:150px;height:150px">
 
+<details>
+<summary>Expand for matches</summary>
+
 - Kensuke Sasaki vs. Toshiaki Kawada [Triple Crown Title] (2007.10.18)<br>
   [YouTube](https://www.youtube.com/watch?v=rHfK6fFDzvE)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=12807#rateHere)
@@ -41,11 +44,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=23601#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/qpolhe-U1Pk?si=kHnESB4Dgbi8-zs-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="bjw">`Big Japan Pro Wrestling`<br>`大日本プロレス`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0013.png" alt="BJW Logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Ryuji Ito & Takashi Sasaki vs. Jaki Numazawa & Jun Kasai [200 Fluorescent Lighttubes Cage Tag Team Death Match]<br>
   [Archive](https://archive.org/details/dainichi-taisen-38)<br>
@@ -73,11 +81,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=424221&page=2)
   <img src="https://bjwcore.com/storage/generated/images/thumbnail/original/content-e520f70ac3930490458892665cda6620-eyecatch.jpg?ts=1747899854" style="height:500px">
 
+</details>
+
 ---
 
 ## <a id="dg">`DRAGONGATE / Toryumon`<br>`ドラゴンゲート・闘龍門`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0177.jpg" alt="DRAGONGATE Shield Logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - BxB Hulk & Shingo Takagi vs. KENTA & Taiji Ishimori [GHC Junior Heavyweight Tag Team Title] (2008.03.20)<br>
   [YouTube](https://www.youtube.com/watch?v=eJJkPb-NW5o)<br>
@@ -107,12 +120,21 @@ Click on the promotions to get you there quick.
   [VK](https://vkvideo.ru/video-207689490_456239729)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&candidate=1760350_4fd07c177ec8b0e7ff9799721beb1aa6)
 
-- CIMA, Sanshiro Takagi, TAKA Michinoku vs. Akira Tozawa, BxB Hulk, Cyber Kong (2012.03.01)
+- CIMA, Sanshiro Takagi, TAKA Michinoku vs. Akira Tozawa, BxB Hulk, Cyber Kong (2012.03.01)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=76142&page=3)
+
+- Masasto Yoshino vs. Naruki Doi [Open The Dream Gate Title] (2013.11.03)<br>
+  [Dailymotion](https://www.dailymotion.com/video/x8fj4bj)<br>
+  [CAGEMATCH](https://www.cagematch.net/?id=111&nr=5845#rateHere)
+
+</details>
 
 ---
 
 ## <a id="freedoms">`FREEDOMS`</a>
+
+<details>
+<summary>Expand for matches</summary>
 
 - Jun Kasai vs. Masashi Takeda [Glass Death Match] (2009.12.25)<br>
   [YouTube](https://www.youtube.com/watch?v=xDDeJ2feDj0)<br>
@@ -129,11 +151,16 @@ Click on the promotions to get you there quick.
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=45517#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/Kra7eiCLODo?si=tqGtn5QwSvhxW5Wc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="njpw">`New Japan Pro Wrestling`<br>`新日本プロレス`</a>
 
 <img src="https://wp.bbm-mobile.com/img/Common/Party/0001.png" alt="NJPW Logo" style="width:150px;height:150px">
+
+<details>
+<summary>Expand for matches</summary>
 
 - Kazuchika Okada vs. Tetsuya Naito [IWGP Heavyweight Title] (2016.04.10)<br>
   [NJPW WORLD](https://watch.njpwworld.com/details/37839)<br>
@@ -182,18 +209,28 @@ Click on the promotions to get you there quick.
 - KUSHIDA (c) vs. Ryusuke Taguchi [IWGP Junior Heavyweight Title] (2014.09.21)
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=6268#rateHere)
 
+</details>
+
 ---
 
 ## <a id="z1">`ZERO-1`</a>
+
+<details>
+<summary>Expand for matches</summary>
 
 - Masato Tanaka vs. Shinya Hashimoto (2003.11.07)<br>
   [YouTube](https://youtu.be/Xmf_XU6YszM?si=0Yx5qe_glzP1SrGM)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=111&nr=13572#rateHere)
   <iframe width="600" height="300" src="https://www.youtube.com/embed/Xmf_XU6YszM?si=nYed5Sp08PvbrmKN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ---
 
 ## <a id="independent">`Independent`</a>
+
+<details>
+<summary>Expand for matches</summary>
 
 - Kakuto Tanteidan III ~ One Life To Live (whole show)<br>
   [WRESTLE UNIVERSE](https://www.wrestle-universe.com/en/videos/wuYftuHsYthAbx6zRFNakp)<br>
@@ -204,3 +241,7 @@ Click on the promotions to get you there quick.
   [Archive](https://archive.org/details/fortune-dream-10-16-04-25)<br>
   [CAGEMATCH](https://www.cagematch.net/?id=1&nr=423749&page=2)
   <iframe src="https://archive.org/embed/fortune-dream-10-16-04-25" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+</details>
+
+---
